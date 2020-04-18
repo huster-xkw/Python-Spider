@@ -1,2 +1,2 @@
-＃蟒蛇-spider
-数据鲸组队爬虫专用库
+# python-spider
+datawhale python-spider 专用库
